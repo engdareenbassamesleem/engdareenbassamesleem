@@ -56,6 +56,16 @@ I enjoy transforming ideas into efficient, scalable, and user-friendly systems w
 🔹 Portfolio Website  
 
 ---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engdareenbassamesleem&show_icons=true)
+
+---
+
+## 🏷 Skills Badges
+![React](https://img.shields.io/badge/React-blue)
+![Flutter](https://img.shields.io/badge/Flutter-blue)
+![Python](https://img.shields.io/badge/Python-blue)
+
 
 ## 📫 Contact
 - 💼 LinkedIn:dareenesleem2001
