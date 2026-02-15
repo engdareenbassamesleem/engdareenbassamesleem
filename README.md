@@ -68,7 +68,7 @@ I enjoy transforming ideas into efficient, scalable, and user-friendly systems w
 
 
 ## 📫 Contact
-- 💼 LinkedIn:dareenesleem2001
+- 💼 LinkedIn:www.linkedin.com/in/dareenesleem2001
 - 📧 Email: dareen1872001@gmail.com
 
 ⭐ Thanks for visiting my profile!
