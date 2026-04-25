@@ -1,71 +1,64 @@
+
 # 👋 Hi, I'm Dareen Esleem
 
-💻 Software Engineer | Front-End Developer | Flutter Developer  
-🤖 Automation & AI Enthusiast  
-🎓 BSc in Mathematical Sciences  
+💻 AI & Automation Systems Developer
+🤖 Building smart systems that simplify work and improve efficiency
 🌍 Palestine
 
 ---
 
 ## 🚀 About Me
-I am a Software Engineer with hands-on experience in building modern web and mobile applications.
-I specialize in **Front-End Development** and **Flutter**, and I also work with **Automation and AI-powered solutions**.
 
-I enjoy transforming ideas into efficient, scalable, and user-friendly systems while following solid **software engineering principles**.
+I build AI-powered systems and automation solutions that help businesses save time and reduce manual work.
+
+My work focuses on combining:
+• Web & mobile development
+• AI tools and APIs
+• Workflow automation
+
+I aim to create simple, practical, and scalable solutions.
+
+---
+
+## 💡 What I Do
+
+✔️ Build AI-powered web applications
+✔️ Automate business workflows
+✔️ Design clean and user-friendly interfaces
+✔️ Integrate APIs and backend systems
 
 ---
 
 ## 🛠 Tech Stack
 
-### Front-End
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
-
-### Mobile Development
-- Flutter
-- Dart
-
-### Automation & AI
-- Python for Automation
-- AI APIs Integration
-- Workflow Automation
-- Data Processing
-- Prompt Engineering
-
-### Software Engineering
-- OOP
-- Data Structures & Algorithms
-- Clean Architecture
-- MVC Pattern
-- Git & GitHub
-
-### Tools
-- Figma
-- VS Code
-- Postman
+* Front-End: React.js, Tailwind CSS
+* Mobile: Flutter
+* Backend & Automation: Python, Firebase
+* AI: APIs Integration, Prompt Engineering
+* Tools: Figma, Git, Postman
 
 ---
 
-## 📂 Featured Projects
-🔹 Flutter E-Commerce App  
-🔹 React Front-End Dashboard  
-🔹 AI Automation Scripts  
-🔹 Portfolio Website  
+## 🔥 Featured Project
+
+### AI Automation System
+
+A system that automates tasks such as:
+
+* Handling requests
+* Managing workflows
+* Reducing manual work
+
+🚀 Live Demo: [Add your link]
+📩 Contact me for collaboration
 
 ---
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engdareenbassamesleem&show_icons=true)
 
----
+## 📂 Other Projects
 
-## 🏷 Skills Badges
-![React](https://img.shields.io/badge/React-blue)
-![Flutter](https://img.shields.io/badge/Flutter-blue)
-![Python](https://img.shields.io/badge/Python-blue)
-
+* Flutter E-Commerce App
+* React Dashboard
+* AI Automation Scripts
 
 ## 📫 Contact
 - 💼 LinkedIn:www.linkedin.com/in/dareenesleem2001
