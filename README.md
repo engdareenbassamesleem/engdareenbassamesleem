@@ -1,67 +1,63 @@
-
 # 👋 Hi, I'm Dareen Esleem
 
-💻 AI & Automation Systems Developer
-🤖 Building smart systems that simplify work and improve efficiency
-🌍 Palestine
+## 🤖 Artificial Intelligence Engineer | Automation & AI Systems Developer
+
+I am an AI Engineer focused on building intelligent systems, automation workflows, and scalable AI-powered applications.
+
+My work combines:
+- Artificial Intelligence & Machine Learning concepts
+- Workflow Automation Systems
+- SaaS Product & System Design
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I build AI-powered systems and automation solutions that help businesses save time and reduce manual work.
-
-My work focuses on combining:
-• Web & mobile development
-• AI tools and APIs
-• Workflow automation
-
-I aim to create simple, practical, and scalable solutions.
+I hold a Bachelor’s degree in Mathematics, which gave me a strong foundation in analytical thinking and problem solving. I transitioned into Artificial Intelligence engineering, where I focus on building real-world AI systems and automation solutions.
 
 ---
 
-## 💡 What I Do
+## ⚙️ What I Build
 
-✔️ Build AI-powered web applications
-✔️ Automate business workflows
-✔️ Design clean and user-friendly interfaces
-✔️ Integrate APIs and backend systems
+✔ AI-powered applications  
+✔ Intelligent automation systems  
+✔ AI-driven workflows (n8n, APIs)  
+✔ SaaS and scalable system design  
+✔ AI chatbots and assistants  
 
 ---
 
 ## 🛠 Tech Stack
 
-* Front-End: React.js, Tailwind CSS
-* Mobile: Flutter
-* Backend & Automation: Python, Firebase
-* AI: APIs Integration, Prompt Engineering
-* Tools: Figma, Git, Postman
+**AI & ML:** LLMs, Prompt Engineering, AI APIs  
+**Automation:** n8n, Webhooks, Workflow Systems  
+**Backend:** Python, Firebase  
+**Frontend:** React.js, Tailwind CSS  
+**Tools:** Git, Postman, Figma  
 
 ---
 
-## 🔥 Featured Project
+## 🚀 Featured Projects
 
-### AI Automation System
+### 🦷 Dentivo AI
+AI-powered intelligent system for workflow automation and AI assistant behavior design.
 
-A system that automates tasks such as:
+### ⚙️ AI Lead Automation System
+End-to-end AI automation system that processes and classifies leads using n8n and AI models.
 
-* Handling requests
-* Managing workflows
-* Reducing manual work
+### 💬 AI Chatbot System
+AI-powered conversational web application using OpenAI API and full-stack integration.
 
-🚀 Live Demo: [Add your link]
-📩 Contact me for collaboration
+### 🌐 Tradex (AI Marketplace System)
+AI-driven marketplace concept with smart product matching and system design architecture.
 
 ---
-
-## 📂 Other Projects
-
-* Flutter E-Commerce App
-* React Dashboard
-* AI Automation Scripts
 
 ## 📫 Contact
-- 💼 LinkedIn:www.linkedin.com/in/dareenesleem2001
-- 📧 Email: dareen1872001@gmail.com
 
-⭐ Thanks for visiting my profile!
+📧 Email: dareen1872001@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/dareenesleem2001  
+
+---
+
+⭐ AI Engineer building scalable intelligent systems and automation solutions.
