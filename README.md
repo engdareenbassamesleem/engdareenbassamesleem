@@ -78,20 +78,29 @@ An AI-powered patient engagement and clinic workflow assistant for dental practi
 </td>
 <td width="50%" valign="top">
 
-### 🪙 [GoldCalcPro](https://github.com/engdareenbassamesleem/gold-calcpro)
+### 📚 [RAGSource](https://github.com/engdareenbassamesleem/ragsource)
 
-A responsive gold valuation interface that calculates estimated values from user-provided market rate, weight, purity, and currency.
+A citation-first RAG assistant that answers questions from PDF documents with verifiable page-level sources.
 
-- Supports 18K, 21K, 22K, and 24K purity
-- USD, QAR, EUR, GBP, and AED conversions
-- Animated calculation experience
-- Demonstration data and user-provided rates
+- Semantic retrieval with BGE embeddings
+- PDF ingestion with page provenance
+- Gemini generation and safe extractive fallback
+- FastAPI, tests, CI, Docker, and persistent vector index
 
-**Stack:** React 19 · TypeScript · Vite · Tailwind CSS · Motion
+**Stack:** Python · FastAPI · FastEmbed · Gemini · PyPDF · Docker
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🪙 [GoldCalcPro](https://github.com/engdareenbassamesleem/gold-calcpro)
+
+A responsive gold valuation interface based on user-provided market rate, weight, purity, and currency.
+
+**Stack:** React 19 · TypeScript · Vite · Tailwind CSS · Motion
+
+</td>
 <td width="50%" valign="top">
 
 ### 📄 [AI Resume Analyzer](https://github.com/engdareenbassamesleem/ai-resume-analyzer)
@@ -99,17 +108,10 @@ A responsive gold valuation interface that calculates estimated values from user
 An AI-powered resume analyzer project with ATS scoring.
 
 </td>
-<td width="50%" valign="top">
-
-### 🧴 [COSRX Landing Page](https://github.com/engdareenbassamesleem/-COSRX-Snail-Mucin-Repairing-Serum-landing-page)
-
-A React and TypeScript product landing-page project built with Vite.
-
-</td>
 </tr>
 </table>
 
-> Dentivo AI is a portfolio demonstration and is not a replacement for professional medical advice or a production clinical system. GoldCalcPro uses demonstration data and user-provided market rates.
+> Dentivo AI is a portfolio demonstration and is not a replacement for professional medical advice or a production clinical system. GoldCalcPro uses demonstration data and user-provided market rates. RAGSource is a portfolio MVP and requires additional security controls before production use.
 
 ## 📊 GitHub Analytics
 
