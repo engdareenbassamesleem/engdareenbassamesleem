@@ -1,143 +1,46 @@
-<div align="center">
+# Dareen Esleem
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00D4FF&height=220&section=header&text=Dareen%20Esleem&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Automation&descSize=18&descAlignY=60&animation=fadeIn" alt="Dareen Esleem — AI Engineer" />
+### Python · AI applications · Workflow automation
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+AI-powered+applications;Designing+intelligent+automation+workflows;Turning+ideas+into+practical+AI+products" alt="Typing introduction" />
-</a>
+Mathematics graduate (2024), based in Gaza, Palestine. English: C1.
+I build and explore practical tools for document retrieval, automation operations and web interfaces.
 
-<p>
-  <a href="mailto:dareen1872001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/dareenesleem2001/"><img src="https://img.shields.io/badge/LinkedIn-Dareen%20Esleem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/engdareenbassamesleem"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+**Open to paid remote internships and junior roles** in Python development, AI application development and workflow automation.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/dareenesleem2001/) · [Email](mailto:dareen1872001@gmail.com)
 
-## 👩‍💻 About Me
+## Start with these projects
 
-I'm an **AI Engineer** with a Bachelor's degree in Mathematics, focused on building AI-powered applications, conversational assistants, and automation workflows.
+| Project | What to inspect | Technologies |
+|---|---|---|
+| [FlowMedic AI](https://github.com/engdareenbassamesleem/flowmedic-ai) | n8n failure monitoring, persistent incidents, deterministic health metrics and a dashboard | Python, FastAPI, SQLAlchemy, Next.js |
+| [RAGSource](https://github.com/engdareenbassamesleem/ragsource) | PDF retrieval, page-level sources, generation provider boundaries and tests | Python, FastAPI, FastEmbed, Gemini |
+| [Resume Evidence](https://github.com/engdareenbassamesleem/ai-resume-analyzer) | Explainable resume/job skill matching with original text evidence and a local browser UI | Python, Unicode normalization, unittest |
+| [SourceDesk](https://github.com/engdareenbassamesleem/AI-Chatbot-WebApp) | BM25 FAQ retrieval with exact answers, source labels and a no-match state | Python, information retrieval, JavaScript |
+| [Dentivo AI](https://github.com/engdareenbassamesleem/dentivo-ai) | Dental-clinic assistant prototype, Firebase integration and React interface | React, TypeScript, Firebase, Gemini |
+| [GoldCalcPro](https://github.com/engdareenbassamesleem/gold-calcpro) | Interactive valuation UI using entered rates and fixed demo conversion factors | React, TypeScript, Vite |
 
-I combine analytical problem-solving with product thinking to turn AI capabilities into focused, practical systems. My current work explores generative AI, workflow automation, Firebase-backed applications, and modern web interfaces.
+## Find the relevant evidence
 
-- 🤖 Building AI assistants and domain-focused applications
-- ⚙️ Designing automated workflows with APIs, webhooks, and n8n
-- 🧠 Working with LLMs, prompt engineering, and structured AI behavior
-- 🌐 Developing interfaces with React, TypeScript, and Tailwind CSS
-- 🔥 Using Firebase Authentication and Cloud Firestore for application services
+- **Python / backend:** start with FlowMedic's service layer and RAGSource's retrieval pipeline.
+- **Automation:** inspect FlowMedic's n8n adapter, idempotent ingestion and health rules.
+- **Algorithms / explainability:** run the Resume Evidence and SourceDesk demos without API keys.
+- **Frontend:** inspect Dentivo, GoldCalcPro and the [skincare landing-page concept](https://github.com/engdareenbassamesleem/-COSRX-Snail-Mucin-Repairing-Serum-landing-page).
 
-## 🛠️ Technology Stack
+## Project scope
 
-<div align="center">
+These are portfolio and learning projects. Each repository documents its setup and current limits.
+Resume Evidence measures explicit skill mentions, not an ATS score or hiring probability.
+SourceDesk retrieves curated FAQ text; it does not generate answers with an LLM.
+Dentivo is a clinic-workflow demonstration and needs further work before production use.
+GoldCalcPro has no live pricing feed.
 
-### AI & Automation
+Some work is developed with AI coding assistance. Repository code, tests and documented behavior are the basis for evaluating each project; no paid-client results are claimed here.
 
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-2563EB?style=for-the-badge)
+## Background and interests
 
-### Development
+- BSc Mathematics, Islamic University of Gaza; official graduation year 2024.
+- Interests: applied AI, evidence-based retrieval, API integrations and useful automation.
+- Tools represented in the projects: Python, SQL, FastAPI, TypeScript, React, Firebase, n8n and Docker.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-
-### Tools & Product Design
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🦷 [Dentivo AI](https://github.com/engdareenbassamesleem/dentivo-ai)
-
-An AI-powered patient engagement and clinic workflow assistant for dental practices.
-
-- Gemini conversational assistant
-- Guided booking-request collection
-- Patient management and clinic dashboard
-- Google and email/password authentication
-- Cloud Firestore data storage
-
-**Stack:** React 19 · TypeScript · Gemini · Firebase · Tailwind CSS · Motion · Recharts
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [RAGSource](https://github.com/engdareenbassamesleem/ragsource)
-
-A citation-first RAG assistant that answers questions from PDF documents with verifiable page-level sources.
-
-- Semantic retrieval with BGE embeddings
-- PDF ingestion with page provenance
-- Gemini generation and safe extractive fallback
-- FastAPI, tests, CI, Docker, and persistent vector index
-
-**Stack:** Python · FastAPI · FastEmbed · Gemini · PyPDF · Docker
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🪙 [GoldCalcPro](https://github.com/engdareenbassamesleem/gold-calcpro)
-
-A responsive gold valuation interface based on user-provided market rate, weight, purity, and currency.
-
-**Stack:** React 19 · TypeScript · Vite · Tailwind CSS · Motion
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 [AI Resume Analyzer](https://github.com/engdareenbassamesleem/ai-resume-analyzer)
-
-An AI-powered resume analyzer project with ATS scoring.
-
-</td>
-</tr>
-</table>
-
-> Dentivo AI is a portfolio demonstration and is not a replacement for professional medical advice or a production clinical system. GoldCalcPro uses demonstration data and user-provided market rates. RAGSource is a portfolio MVP and requires additional security controls before production use.
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=engdareenbassamesleem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Dareen's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engdareenbassamesleem&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=engdareenbassamesleem&bg_color=1a1b27&color=8B5CF6&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
-## 🎯 Current Focus
-
-```text
-AI Assistants  →  Structured conversations and domain-focused behavior
-Automation     →  n8n, APIs, webhooks, and connected workflows
-AI Products    →  Practical SaaS concepts backed by modern web technology
-```
-
-<div align="center">
-
-### Let's build useful AI systems.
-
-![Profile Views](https://komarev.com/ghpvc/?username=engdareenbassamesleem&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:8B5CF6,100:6C63FF&height=120&section=footer" alt="" />
-
-</div>
+For a project-by-project tour, see [PORTFOLIO.md](PORTFOLIO.md).
