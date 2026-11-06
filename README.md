@@ -1,46 +1,56 @@
-# Dareen Esleem
+# Hi, I'm Dareen Esleem 👋
 
-### Python · AI applications · Workflow automation
+### Python Developer · Applied AI · Workflow Automation
 
-Mathematics graduate (2024), based in Gaza, Palestine. English: C1.
-I build and explore practical tools for document retrieval, automation operations and web interfaces.
+I build practical AI-enabled applications and automation tools, with a focus on **reliable Python backends, evidence-grounded retrieval, and useful interfaces**. My background in mathematics informs how I approach problem solving, testing, and system design.
 
-**Open to paid remote internships and junior roles** in Python development, AI application development and workflow automation.
+📍 Palestine · 🌍 Open to remote junior roles, internships, and freelance collaborations
 
-[LinkedIn](https://www.linkedin.com/in/dareenesleem2001/) · [Email](mailto:dareen1872001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github)](https://github.com/engdareenbassamesleem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dareenesleem2001/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:dareen1872001@gmail.com)
 
-## Start with these projects
+---
 
-| Project | What to inspect | Technologies |
-|---|---|---|
-| [FlowMedic AI](https://github.com/engdareenbassamesleem/flowmedic-ai) | n8n failure monitoring, persistent incidents, deterministic health metrics and a dashboard | Python, FastAPI, SQLAlchemy, Next.js |
-| [RAGSource](https://github.com/engdareenbassamesleem/ragsource) | PDF retrieval, page-level sources, generation provider boundaries and tests | Python, FastAPI, FastEmbed, Gemini |
-| [Resume Evidence](https://github.com/engdareenbassamesleem/ai-resume-analyzer) | Explainable resume/job skill matching with original text evidence and a local browser UI | Python, Unicode normalization, unittest |
-| [SourceDesk](https://github.com/engdareenbassamesleem/AI-Chatbot-WebApp) | BM25 FAQ retrieval with exact answers, source labels and a no-match state | Python, information retrieval, JavaScript |
-| [Dentivo AI](https://github.com/engdareenbassamesleem/dentivo-ai) | Dental-clinic assistant prototype, Firebase integration and React interface | React, TypeScript, Firebase, Gemini |
-| [GoldCalcPro](https://github.com/engdareenbassamesleem/gold-calcpro) | Interactive valuation UI using entered rates and fixed demo conversion factors | React, TypeScript, Vite |
+## Featured engineering projects
 
-## Find the relevant evidence
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| **[FlowMedic AI](https://github.com/engdareenbassamesleem/flowmedic-ai)** | Read-only n8n monitoring, sanitized incident persistence, idempotent ingestion, health metrics, and AI-assisted diagnosis suggestions | Python, FastAPI, SQLAlchemy, Next.js, Docker |
+| **[RAGSource](https://github.com/engdareenbassamesleem/ragsource)** | Citation-first PDF retrieval with page-level provenance, semantic embeddings, grounded answers, and offline tests | Python, FastAPI, FastEmbed, Gemini |
+| **[Dentivo AI](https://github.com/engdareenbassamesleem/dentivo-ai)** | Dental clinic workflow prototype with conversational booking requests, patient dashboard, and Firebase integration | React, TypeScript, Firebase, Gemini |
+| **[Resume Evidence](https://github.com/engdareenbassamesleem/ai-resume-analyzer)** | Explainable skill matching using text evidence rather than invented ATS scores | Python, unittest |
+| **[SourceDesk](https://github.com/engdareenbassamesleem/AI-Chatbot-WebApp)** | FAQ retrieval with source labels and explicit no-match behavior | Python, BM25, JavaScript |
+| **[Dareen-OS](https://github.com/engdareenbassamesleem/Dareen-OS)** | Interactive 3D developer portfolio with accessible controls and responsive layouts | React, TypeScript, Three.js |
 
-- **Python / backend:** start with FlowMedic's service layer and RAGSource's retrieval pipeline.
-- **Automation:** inspect FlowMedic's n8n adapter, idempotent ingestion and health rules.
-- **Algorithms / explainability:** run the Resume Evidence and SourceDesk demos without API keys.
-- **Frontend:** inspect Dentivo, GoldCalcPro and the [skincare landing-page concept](https://github.com/engdareenbassamesleem/-COSRX-Snail-Mucin-Repairing-Serum-landing-page).
+**Suggested review path:** For backend roles, start with FlowMedic and RAGSource. For AI product prototyping, explore Dentivo. For frontend work, explore Dareen-OS.
 
-## Project scope
+## Technical toolkit
 
-These are portfolio and learning projects. Each repository documents its setup and current limits.
-Resume Evidence measures explicit skill mentions, not an ATS score or hiring probability.
-SourceDesk retrieves curated FAQ text; it does not generate answers with an LLM.
-Dentivo is a clinic-workflow demonstration and needs further work before production use.
-GoldCalcPro has no live pricing feed.
+- **Backend:** Python, FastAPI, SQLAlchemy, REST APIs, SQL
+- **AI applications:** Retrieval-augmented generation (RAG), embeddings, Gemini integrations, structured AI outputs
+- **Automation:** n8n, workflow integrations, incident monitoring
+- **Frontend:** React, TypeScript, Next.js, Three.js
+- **Developer tools:** Git, GitHub Actions, Docker, pytest, Firebase
 
-Some work is developed with AI coding assistance. Repository code, tests and documented behavior are the basis for evaluating each project; no paid-client results are claimed here.
+These technologies are represented across projects; proficiency varies by tool and project.
 
-## Background and interests
+## Currently exploring
 
-- BSc Mathematics, Islamic University of Gaza; official graduation year 2024.
-- Interests: applied AI, evidence-based retrieval, API integrations and useful automation.
-- Tools represented in the projects: Python, SQL, FastAPI, TypeScript, React, Firebase, n8n and Docker.
+- Reliable AI agents and workflow automation
+- Retrieval quality, evaluation, and explainability
+- Production-oriented API design, testing, and deployment
 
-For a project-by-project tour, see [PORTFOLIO.md](PORTFOLIO.md).
+## About my work
+
+I have a mathematics background and an interest in applied AI and statistical modeling. I use AI-assisted development tools alongside hands-on testing, documentation, and code review. My repositories are **portfolio and learning projects**, not claims of production deployment or paid-client outcomes.
+
+Each project's README explains what is implemented, how to run it, and its current limitations. In particular, Dentivo is a prototype rather than a production clinic system, and FlowMedic provides advisory diagnosis rather than automated repairs.
+
+## Let's connect
+
+Interested in a Python, AI application, or automation collaboration?
+
+**[LinkedIn](https://www.linkedin.com/in/dareenesleem2001/)** · **[Email](mailto:dareen1872001@gmail.com)** · **[Browse repositories](https://github.com/engdareenbassamesleem?tab=repositories)**
+
+For a more detailed project tour, see **[PORTFOLIO.md](PORTFOLIO.md)**.
