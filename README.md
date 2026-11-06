@@ -1,10 +1,13 @@
 # Hi, I'm Dareen Esleem 👋
 
-### Python Developer · Applied AI · Workflow Automation
+### Software Engineer | AI Engineer | Full-Stack & Intelligent Automation
 
-I build practical AI-enabled applications and automation tools, with a focus on **reliable Python backends, evidence-grounded retrieval, and useful interfaces**. My background in mathematics informs how I approach problem solving, testing, and system design.
+I design and build **AI-powered applications, backend services, and workflow automation solutions** that address practical business problems. My work includes Python, FastAPI, React, TypeScript, retrieval-augmented generation (RAG), and AI integrations. My mathematics background strengthens my analytical problem-solving approach.
 
-📍 Palestine · 🌍 Open to remote junior roles, internships, and freelance collaborations
+**For engineering teams:** Explore my code, architecture decisions, tests, and documentation.  
+**For businesses:** I build custom web applications, AI-enabled workflows, and practical automation solutions.
+
+📍 Palestine · 🎓 Master's student in Mathematics · 🌍 Open to remote software/AI roles and freelance projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github)](https://github.com/engdareenbassamesleem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dareenesleem2001/)
